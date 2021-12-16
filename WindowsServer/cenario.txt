@@ -1,0 +1,2 @@
+SERVER01|Caminho/pasta
+SERVER02|Caminho/pasta
